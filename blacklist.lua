@@ -1,3 +1,3 @@
 usernames = {"GAYBAR"}
-computernames = {"Desktop-1H06Q"}
+computernames = {""}
 ips = {""}
